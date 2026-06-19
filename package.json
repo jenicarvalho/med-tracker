@@ -1,0 +1,15 @@
+{
+  "name": "med-tracker",
+  "version": "1.0.0",
+  "description": "A medication tracking application.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "lint:fix": "prettier --write ."
+  },
+  "author": "Jeniffer Carvalho",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.8.4"
+  }
+}
